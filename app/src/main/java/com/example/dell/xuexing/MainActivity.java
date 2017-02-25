@@ -65,7 +65,7 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(MainActivity.this,Main6Activity.class);
                     startActivityForResult(intent,1);
                 }
-                if (editeTextCC.equals("B")&&editeTextWW.equals("A")){
+                if (editeTextCC.equals("B")&&editeTextWW.equals("AB")){
                     Intent intent = new Intent(MainActivity.this,Main6Activity.class);
                     startActivityForResult(intent,1);
                 }
